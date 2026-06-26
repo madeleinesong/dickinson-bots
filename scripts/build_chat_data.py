@@ -32,6 +32,15 @@ GEN_SYS = (
 )
 
 
+def scrub_passage(p):
+    """Remove footnote/page-number noise that leaks from the source scans."""
+    p = re.sub(r"\s+\d{1,3}(?=\s|$|[.,;:”’\"])", " ", p)  # standalone 1-3 digit refs
+    p = re.sub(r"(\w)-\s+(\w)", r"\1\2", p)                # OCR hyphen-space splits
+    p = re.sub(r"\s+([.,;:!?])", r"\1", p)                 # tidy space-before-punct
+    p = re.sub(r"\s{2,}", " ", p)
+    return p.strip()
+
+
 def split_passages(text, target_words=100, min_words=45, max_words=170):
     """Greedily pack sentences into ~target-word passages at sentence boundaries."""
     # sentence split: end punctuation followed by space + capital/quote
@@ -57,6 +66,7 @@ def split_passages(text, target_words=100, min_words=45, max_words=170):
     # keep coherent-looking passages: start capitalized, within length band
     out = []
     for p in passages:
+        p = scrub_passage(p)
         if min_words <= len(p.split()) <= max_words and re.match(r'^[“"‘A-Z]', p):
             out.append(p)
     return out
