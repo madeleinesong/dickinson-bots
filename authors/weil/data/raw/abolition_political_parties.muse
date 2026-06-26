@@ -1,0 +1,444 @@
+#title On the Abolition of All Political Parties
+#author Simone Weil
+#SORTtopics political parties, anti-state, abolition
+#date 1957
+#source Retrieved on 28<sup>th</sup> November 2020 from [[https://libcom.org/library/abolition-all-political-parties-simone-weil][libcom.org]]
+#lang en
+#pubdate 2020-11-28T13:47:13
+#notes Translated in 2013 by Simon Leys
+
+** Translator’s Foreword
+
+Once in a blue moon, on strictly non-political issues, dealing purely with questions of ethics, members of Parliament are allowed to make a ‘conscience vote.’ A conscience vote – what an extraordinary notion! It should be a pleonasm: don’t we all assume that <em>every</em> vote – by definition – is being made by MPs <em>who listen to their consciences</em>, instead of following some diktat from a political party?
+
+The first quality of a politician is integrity. Integrity requires independence of judgment. Independence of judgment rejects partisan edicts, for partisan edicts stifle in a man’s conscience all sense of justice and the very taste of truth.
+
+When such basic truths are ignored, Parliament turns into an unseemly circus, provoking dismay and contempt in the general public across all party lines. When voters distrust and despise their representatives, democracy itself is imperilled.
+
+While I feel privileged to live in a Western democracy, now and then shocking aspects of partisan politics inspire me to read again Simone Weil’s comments on this particular evil. Though her essay was written nearly seventy years ago, in very different circumstances, it seems to me greatly relevant for us here today. I therefore undertook to translate it into English, in the hope that it might provide the starting point for a healthy debate.
+
+Though I have no particular competence that would enable me to adjudicate dissenting views, there is one objection which, I think, should be refuted from the start: some may object that Weil is hopelessly utopian, unrealistic and impractical. Such an objection entirely misses the point, which was well illustrated by Chesterton in a famous parable:
+
+Suppose that a great commotion arises in the street about something, let us say a lamp-post, which many influential persons desire to pull down. A grey-clad monk, who is the spirit of the Middle Ages, is approached upon the matter and begins to say, in the arid manner of the Schoolmen, ‘Let us first of all consider, my brethren, the value of Light. If Light be in itself good—’ At this point, he is somewhat excusably knocked down. All the people make a rush for the lamp-post, the lamp-post is down in ten minutes, and they go about congratulating each other on their unmediaeval practicality. But as things go on they do not work out so easily. Some people have pulled the lamp-post down because they wanted the electric light; some because they wanted old iron; some because they wanted darkness, because their deeds were evil. Some thought it not enough of a lamp-post, some too much; some acted because they wanted to smash municipal machinery; some because they wanted to smash anything. And there is war in the night, no man knowing whom he strikes. So, gradually and inevitably, today, tomorrow or the next day, there comes back the conviction that the monk was right after all, and that all depends on what is the philosophy of Light. Only what we might have discussed under the gas-lamp, we now must discuss in the dark.[1]
+
+Let us now discuss the philosophy of political parties under the light of Simone Weil: going back to first principles.
+
+<em>S.L.
+<br>
+Canberra, August 2012</em>
+
+[1] G. K. Chesterton, <em>Heretics</em> (1905), end of chapter I, ‘Introductory Remarks on the Importance of Orthodoxy.’
+
+** Note on the Text
+
+<em>Note sur la suppression générale des partis politiques</em> was written in 1943, at the very end of Weil’s tragically short life. She was in London, where she had rallied the Free French around Général de Gaulle; she was deeply dismayed by various attempts of French politicians in exile to revive the old and destructive practices of party politics – rivalries and factionalism. Finally, as a matter of principle, she resigned from all her duties with the Free French on 26 July. She was already in hospital, where she died shortly afterwards, on 24 August, aged thirty-four.
+
+This essay was published for the first time seven years later, in the monthly journal <em>La Table ronde</em> (No. 26, February 1950). The publication was immediately hailed both by André Breton and by Alain (the pen-name of Emile Chartier, a former philosophy teacher of Simone Weil and himself a distinguished philosopher and writer). It was subsequently reissued in book form by Gallimard (1953), and more recently (2008) by Climats-Flammarion, in an edition that includes both Breton’s and Alain’s earlier articles. It will also form part of the final volume of the monumental <em>Oeuvres complètes de Simone Weil</em>, edited by Florence de Lussy (Gallimard).
+
+I have also included a short yet masterly essay by Czeslaw Milosz, written in 1960, presenting the life and thought of Simone Weil. I have added a note on Milosz himself and his discovery of Weil, thanks to his friendship with Camus.
+
+** On the Abolition of All Political Parties
+
+The word ‘party’ is taken here in the meaning it has in Continental Europe. In Anglo-Saxon countries, this same word designates an altogether different reality, which has its roots in English tradition and is therefore not easily transposable elsewhere. The experience of a century and a half shows this clearly enough. [2] In the Anglo-Saxon world, political parties have an element of game, of sport, which is only conceivable in an institution of aristocratic origin, whereas in institutions that were plebeian from the start, everything must always be serious.
+
+At the time of the 1789 Revolution, the very notion of ‘party’ did not enter into French political thinking – except as an evil that ought to be prevented. There was, however, a <em>Club des Jacobins</em>; at first it merely provided an arena for free debate. Its subsequent transformation was by no means inevitable; it was only under the double pressure of war and the guillotine that it eventually turned into a totalitarian party.
+
+Factional infighting during the Terror is best summed up by Tomsky’s memorable saying: ‘One party in power and all the others in jail.’ Thus, in Continental Europe, totalitarianism was the original sin of all political parties.
+
+Political parties were established in European public life partly as an inheritance from the Terror, and partly under the influence of British practice. The mere fact that they exist today is not in itself a sufficient reason for us to preserve them. The only legitimate reason for preserving anything is its goodness. The evils of political parties are all too evident; therefore, the problem that should be examined is this: do they contain enough good to compensate for their evils and make their preservation desirable?
+
+It would be far more relevant, however, to ask: do they do the slightest bit of good? Are they not pure, or nearly pure, evil? If they are evil, it is clear that, in fact and in practice, they can only generate further evil. This is an article of faith: ‘A good tree can never bear bad fruit, nor a rotten tree beautiful fruit.’
+
+First, we must ascertain what is the criterion of goodness.
+
+It can only be truth and justice; and, then, the public interest.
+
+Democracy, majority rule, are not good in themselves. They are merely means towards goodness, and their effectiveness is uncertain. For instance, if, instead of Hitler, it had been the Weimar Republic that decided, through a most rigorous democratic and legal process, to put the Jews in concentration camps, and cruelly torture them to death, such measures would not have been one atom more legitimate than the present Nazi policies (and such a possibility is by no means far-fetched). Only what is just can be legitimate. In no circumstances can crime and mendacity ever be legitimate.
+
+Our republican ideal was entirely developed from a notion originally expressed by Rousseau: the notion of the ‘general will.’ However, the true meaning of this notion was lost almost from the start, because it is complex and demands a high level of attention.
+
+Few books are as beautiful, strong, clear-sighted and articulate as <em>Le Contrat social</em> (with the exception of some of its chapters). It is also said that few books have exerted such an influence – and yet everything has happened, and still happens today, as if no-one ever read it.
+
+Rousseau took as his starting point two premises. First, reason perceives and chooses what is just and innocently useful, whereas every crime is motivated by passion. Second, reason is identical in all men, whereas their passions most often differ. From this it follows that if, on a common issue, everyone thinks alone and then expresses his opinion, and if, afterwards, all these opinions are collected and compared, most probably they will coincide inasmuch as they are just and reasonable, whereas they will differ inasmuch as they are unjust or mistaken.
+
+It is only this type of reasoning that allows one to conclude that a universal consensus may point at the truth.
+
+Truth is one. Justice is one. There is an infinite variety of errors and injustices. Thus all men converge on what is just and true, whereas mendacity and crime make them diverge without end. Since union generates strength, one may hope to find in it a material support whereby truth and justice will prevail over crime and error.
+
+This, in turn, will require an appropriate mechanism. If democracy can provide such a mechanism, it is good. Otherwise, it is not.
+
+In the eyes of Rousseau (and he was right), the unjust will of an entire nation is by no means superior to the unjust will of a single individual.
+
+However, Rousseau also thought that, most of the time, the general will of a whole nation might in fact conform to justice, for the simple reason that individual passions will neutralise one another and act as mutual counterweights. For him, this was the only reason why the popular will should be preferred to the individual will.
+
+Similarly, a certain mass of water, even though it is made of particles in constant movement and endlessly colliding, achieves perfect balance and stillness. It reflects the images of objects with unfailing accuracy; it appears perfectly flat; it reveals the exact density of any immersed object.
+
+If individuals who are pushed to crime and mendacity by their passions can still form, in similar fashion, a people that is truthful and just, then it is appropriate for such a people to be sovereign. A democratic constitution is good if, first of all, it enables the people to achieve this state of equilibrium; only then can the people’s will be executed.
+
+The true spirit of 1789 consists in thinking, not that a thing is just because such is the people’s will, but that, in certain conditions, the will of the people is more likely than any other will to conform to justice.
+
+In order to apply the notion of the general will, several conditions must first be met. Two of these are particularly important.
+
+First, at the time when the people become aware of their own intention and express it, there must not exist any form of collective passion.
+
+It is completely obvious that Rousseau’s reasoning ceases to apply once collective passion comes into play. Rousseau himself knew this well. Collective passion is an infinitely more powerful compulsion to crime and mendacity than any individual passion. In this case, evil impulses, far from cancelling one another out, multiply their force a thousandfold. Their pressure becomes overwhelming – no-one could withstand it, except perhaps a true saint.
+
+When water is set in motion by a violent, impetuous current, it ceases to reflect images. Its surface is no longer level; it can no more measure densities. Whether it is moved by a single current or by several conflicting ones, the disturbance is the same.
+
+When a country is in the grip of a collective passion, it becomes unanimous in crime. If it becomes prey to two, or four, or five, or ten collective passions, it is divided among several criminal gangs. Divergent passions do not neutralise one another, as would be the case with a cluster of individual passions. There are too few of them, and each is too strong for any neutralisation to take place. Competition exasperates them; they clash with infernal noise, and amid such din the fragile voices of justice and truth are drowned.
+
+When a country is moved by a collective passion, the likelihood is that any individual will be closer to justice and reason than is the general will – or rather, the caricature of the general will.
+
+The second condition is that the people should express their will regarding the problems of public life – and not merely choose among various individuals; or, worse, among various irresponsible organisations (for the general will does not have the slightest connection with such choices).
+
+If, in 1789, there was to a certain degree a genuine expression of the general will – even though a system of people’s representation had been adopted, for want of ability to invent any alternative – it was only because they had something far more important than elections. All the living energies of the country – and the country was then overflowing with life – sought expression through means of the <em>cahiers de revendications</em> (statements of grievances). Most of those who were to become the people’s representatives first became known through their participation in this process, and they retained the warmth of the experience. They could feel that the people were listening to their words, watching to see if their aspirations would be correctly interpreted. For a while – all too briefly – these representatives truly were simple channels for the expression of public opinion.
+
+Such a thing was never to happen again.
+
+Merely to state the two conditions required for the expression of the general will shows that we have never known anything that resembles, however faintly, a democracy. We pretend that our present system is democratic, yet the people never have the chance nor the means to express their views on any problem of public life. Any issue that does not pertain to particular interests is abandoned to collective passions, which are systematically and officially inflamed.
+
+The very way in which words such as ‘democracy’ and ‘republic’ are being used obliges us to examine with extreme attention two problems:
+
+1. How to give the men who form the French nation the opportunity to express from time to time their judgment on the main problems of public life?
+
+2. How, when questions are being put to the people, can one prevent their being infected by collective
+
+passions?
+
+If one neglects to consider these two points, it is useless to speak of republican legitimacy.
+
+Solutions will not easily be found. Yet, after careful examination, it appears obvious that any solution will necessarily involve, as the very first step, the abolition of all political parties.
+
+----
+
+To assess political parties according to the criteria of truth, justice and the public interest, let us first identify their essential characteristics.
+
+There are three of these:
+
+ 1. A political party is a machine to generate collective passions.
+
+ 2. A political party is an organisation designed to exert collective pressure upon the minds of all its individual members.
+
+ 3. The first objective and also the ultimate goal of any political party is its own growth, without limit.
+
+Because of these three characteristics, every party is totalitarian – potentially, and by aspiration. If one party is not actually totalitarian, it is simply because those parties that surround it are no less so. These three characteristics are factual truths – evident to anyone who has ever had anything to do with the every-day activities of political parties.
+
+As to the third: it is a particular instance of the phenomenon which always occurs whenever thinking individuals are dominated by a collective structure – a reversal of the relation between ends and means.
+
+Everywhere, without exception, all the things that are generally considered ends are in fact, by nature, by essence, and in a most obvious way, mere means. One could cite countless examples of this from every area of life: money, power, the state, national pride, economic production, universities, etc., etc.
+
+Goodness alone is an end. Whatever belongs to the domain of facts pertains to the category of means. Collective thinking, however, cannot rise above the factual realm. It is an animal form of thinking. Its dim perception of goodness merely enables it to mistake this or that means for an absolute good.
+
+The same applies to political parties. In principle, a party is an instrument to serve a certain conception of the public interest. This is true even for parties which represent the interests of one particular social group, for there is always a certain conception of the public interest according to which the public interest and these particular interests should coincide. Yet this conception is extremely vague. This is true without exception and quite uniformly. Parties that are loosely structured and parties that are strictly organised are equally vague as regards doctrine. No man, even if he had conducted advanced research in political studies, would ever be able to provide a clear and precise description of the doctrine of any party, including (should he himself belong to one) of his own.
+
+People are generally reluctant to acknowledge such a thing. If they were to confess it, they would naively be inclined to attribute their incapacity to their own intellectual limitations, whereas, in fact, the very phrase ‘a political party’s doctrine’ cannot have any meaning.
+
+An individual, even if he spends his entire life writing and pondering problems of ideas, only rarely elaborates a doctrine. A group of people can never do so. A doctrine cannot be a collective product.
+
+One can speak, it is true, of Christian doctrine, Hindu doctrine, Pythagorean doctrine, etc. – but then what is meant by this word is neither individual nor collective; it refers to something that is infinitely higher than these two realms. It is purely and simply the truth.
+
+The goal of a political party is something vague and unreal. If it were real, it would demand a great effort of attention, for the mind does not easily encompass the concept of the public interest. Conversely, the existence of the party is something concrete and obvious; it is perceived without any effort. Therefore, unavoidably, the party becomes in fact its own end.
+
+This then amounts to idolatry, for God alone is legitimately his own end.
+
+The transition is easily achieved. First, an axiom is set: for the party to serve effectively the concept of the public interest that justifies its existence, there is one necessary and sufficient condition: it should secure a vast amount of power.
+
+Yet, once obtained, no finite amount of power will ever be deemed sufficient. The absence of thought creates for the party a permanent state of impotence, which, in turn, is attributed to the insufficient amount of power already obtained. Should the party ever become the absolute ruler of its own country, inter-national contingencies will soon impose new limitations.
+
+Therefore the essential tendency of all political parties is towards totalitarianism, first on the national scale and then on the global scale. And it is precisely because the notion of the public interest which each party invokes is itself a fiction, an empty shell devoid of all reality, that the quest for total power becomes an absolute need. Every reality necessarily implies a limit – but what is utterly devoid of existence cannot possibly encounter any form of limitation. It is for this reason that there is a natural affinity between totalitarianism and mendacity.
+
+Many people, it is true, never contemplate the possibility of total power; the very thought of it scares them. The notion is vertiginous and it takes a sort of greatness to face it. When these people become involved with a political party, they merely wish it to grow – but to grow as a thing that knows no limit. If this year there are three more members than last year, or if the party has collected one hundred francs more, they are pleased. They wish things might endlessly continue in the same direction. In no circumstance could they ever believe that their party might have too many members, too many votes, too much money.
+
+The revolutionary temperament tends to envision a totality. The petit-bourgeois temperament prefers the cosy picture of a slow, uninterrupted and endless progress. In both cases, the material growth of the party becomes the sole criterion by which to measure the good and the bad of all things. It is exactly as if the party were a head of cattle to be fattened, and as if the universe was created for its fattening.
+
+One cannot serve both God and Mammon. If one’s criterion of goodness is not goodness itself, one loses the very notion of what is good.
+
+Once the growth of the party becomes a criterion of goodness, it follows inevitably that the party will exert a collective pressure upon people’s minds. This pressure is very real; it is openly displayed; it is professed and proclaimed. It should horrify us, but we are already too much accustomed to it.
+
+Political parties are organisations that are publicly and officially designed for the purpose of killing in all souls the sense of truth and of justice. Collective pressure is exerted upon a wide public by the means of propaganda. The avowed purpose of propaganda is not to impart light, but to persuade. Hitler saw very clearly that the aim of propaganda must always be to enslave minds. All political parties make propaganda. A party that would not do so would disappear, since all its competitors practise it. All parties confess that they make propaganda. However mendacious they may be, none is bold enough to pretend that in doing so, it is merely educating the public and informing people’s judgment.
+
+Political parties do profess, it is true, to educate those who come to them: supporters, young people, new members. But this is a lie: it is not an education, it is a conditioning, a preparation for the far more rigorous ideological control imposed by the party upon its members.
+
+Just imagine: if a member of the party (elected member of parliament, candidate or simple activist) were to make a public commitment, ‘Whenever I shall have to examine any political or social issue, I swear I will absolutely forget that I am the member of a certain political group; my sole concern will be to ascertain what should be done in order to best serve the public interest and justice.’
+
+Such words would not be welcome. His comrades and even many other people would accuse him of betrayal. Even the least hostile would say, ‘Why then did he join a political party?’ – thus naively confessing that, when joining a political party, one gives up the idea of serving nothing but the public interest and justice. This man would be expelled from his party, or at least denied pre-selection; he would certainly never be elected.
+
+Furthermore, it seems inconceivable that anyone would dare to utter such words. In fact, if I am not mistaken, such a thing has never happened. If such language has ever been used, it was only by politicians who needed to govern with the support of other parties. And even then, the words had a somewhat dishonourable ring to them. Conversely, everybody feels that it is completely natural, sensible and honourable for someone to say, ‘As a conservative ...’ or ‘As a Socialist, I do think that ...’
+
+Actually, this sort of speech is not limited to partisan politics; people are not ashamed to say, ‘As a Frenchman, I think that ...’ or ‘As a Catholic, I think that ...’
+
+Some little girls, who declared they were committed to Gaullism as the French equivalent of Hitlerism, added: ‘Truth is relative, even in geometry.’ Indeed, this is the heart of the matter.
+
+If there were no truth, it would be right to think in such or such a way, when one happens to be in such or such a position. Just as one’s hair is black, brown, red or blond because one happened to be born that way, one may also express such or such a thought. Thought, like hair, is then the product of a physical process of elimination.
+
+If, however, one acknowledges that there is one truth, one cannot think anything but the truth. One thinks what one thinks, not because one happens to be French or Catholic or Socialist, but simply because the irresistible light of evidence forces one to think this and not that.
+
+If there is no evidence, if there is doubt, then it is evident that, given the available knowledge, the matter is uncertain. If there is a small probability on one side, it is <em>evident</em> that there is a small probability – and so on. In any case, inner light always affords whoever seeks it an evident answer. The content of the answer may be more or less affirmative – never mind. It is always susceptible to revision, yet no correction can be effected unless it is through an increase of inner light.
+
+If a man, member of a party, is absolutely determined to follow, in all his thinking, nothing but the inner light, to the exclusion of everything else, he cannot make known to the party such a resolution. To that extent, he is deceiving the party. He thus finds himself in a state of mendacity; the only reason why he tolerates such a situation is that he needs to join a party in order to play an effective part in public affairs. But then this need is evil, and one must put an end to it by abolishing political parties.
+
+A man who has not taken the decision to remain exclusively faithful to the inner light establishes mendacity at the very centre of his soul. For this, his punishment is inner darkness.
+
+It would be useless to attempt an escape by establishing a distinction between inner freedom and external discipline, for this would entail lying to the public, towards whom every candidate, every elected representative, has a special duty of truthfulness. If I am going to say, in the name of my party, things which I know are the opposite of truth and justice, should I first issue a warning to that effect? If I don’t, I lie.
+
+Of these three sorts of lies – lying to the party, lying to the public, lying to oneself – the first is by far the least evil. Yet if belonging to a party compels one to lie all the time, in every instance, then the very existence of political parties is absolutely and unconditionally an evil.
+
+In advertisements for public meetings, one frequently reads things like this: ‘Mr X will present the Communist point of view (on the issue which the meeting shall address). Mr Y will present the Socialist point of view. Mr Z will present the Liberal point of view.’
+
+How do these wretches manage to know the various points of view they are supposed to present? Who can have instructed them? Which oracle? A collectivity has no tongue and no pen. All the organs of expression are individual. The Socialist collectivity is not embodied in any person, and neither is the Liberal one. Stalin embodies the Communist collectivity, but he lives far away and it is not possible to reach him by telephone before the meeting.
+
+No, Mr X, Mr Y, Mr Z each consulted themselves. Yet, if they were honest, they would first have put themselves in a special psychological state – a state similar to the one which is usually attained in the atmosphere of Communist, Socialist or Liberal gatherings.
+
+If, having put oneself in such a state, one were to abandon oneself to automatic reactions, one would quite naturally speak a language in full conformity with the Communist, Socialist or Liberal ‘point of view.’ To achieve this result, there is but one condition: one must absolutely resist the contemplation of truth and justice. If such contemplation were to take place, one would run a horrible risk: one might express a ‘personal point of view.’
+
+When Pontius Pilate asked Jesus, ‘What is the truth?,’ Jesus did not reply. He had already answered when he said, ‘I came to bear witness to the truth.’
+
+There is only one answer. Truth is all the thoughts that surge in the mind of a thinking creature whose unique, total, exclusive desire is for the truth.
+
+Mendacity, error (the two words are synonymous), are the thoughts of those who do not desire truth, or those who desire truth plus something else. For instance, they desire truth, but they also desire conformity with such or such received ideas.
+
+Yet how can we desire truth if we have no prior knowledge of it? This is the mystery of all mysteries. Words that express a perfection which no mind can conceive of – God, truth, justice – silently evoked with desire, but without any preconception, have the power to lift up the soul and flood it with light.
+
+It is when we desire truth with an empty soul and without attempting to guess its content that we receive the light. Therein resides the entire mechanism of attention.
+
+It is impossible to examine the frightfully complex problems of public life while attending to, on the one hand, truth, justice and the public interest, and, on the other, maintaining the attitude that is expected of members of a political movement. The human attention span is limited – it does not allow for simultaneous consideration of these two concerns. In fact, whoever would care for the one is bound to neglect the other.
+
+Yet no suffering befalls whoever relinquishes justice and truth, whereas the party system has painful penalties to chastise insubordination. These penalties extend into all areas of life: career, affections, friendship, reputation, the external aspect of honour, sometimes even family life. The Communist Party developed this system to perfection.
+
+Even for those who do not compromise their inner integrity, the existence of such penalties unavoidably distorts their judgment. If they try to react against party control, this very impulse to react is itself unrelated to the truth, and as such should be suspect; and so, in turn, should be this suspicion ... True attention is a state so difficult for any human creature, so violent, that any emotional disturbance can derail it. Therefore, one must always endeavour strenuously to protect one’s inner faculty of judgment against the turmoil of personal hopes and fears.
+
+If a man undertakes extremely complex numerical calculations knowing that he will be flogged every time he obtains an even number as the final result, he finds himself in an acute predicament. Something in the sensual part of his soul will induce him each time to give a slight twist to the calculations, in order to obtain an odd number at the end. His wish to react may indeed lead him to find even numbers where there are none. Caught in this oscillation, his attention is no longer pure. If the complexity of the calculations demands his total attention, inevitably he will make many mistakes – even if he happens to be very intelligent, very brave and deeply attached to the truth.
+
+What should he do? It is simple. If he can escape from the grip of the people who wield the whip, he must run away. If he could have evaded his tormentors in the first place, he should have.
+
+It is exactly the same when it comes to political parties.
+
+When a country has political parties, sooner or later it becomes impossible to intervene effectively in public affairs without joining a party and playing the game. Whoever is concerned for public affairs will wish his concern to bear fruit. Those who care about the public interest must either forget their concern and turn to other things, or submit to the grind of the parties. In the latter case, they shall experience worries that will soon supersede their original concern for the public interest.
+
+Political parties are a marvellous mechanism which, on the national scale, ensures that not a single mind can attend to the effort of perceiving, in public affairs, what is good, what is just, what is true. As a result – except for a very small number of fortuitous coincidences – nothing is decided, nothing is executed, but measures that run contrary to the public interest, to justice and to truth.
+
+If one were to entrust the organisation of public life to the devil, he could not invent a more clever device.
+
+If the present reality appears slightly less dark, it is only because political parties have not yet swallowed everything. But, in fact, is it truly less dark? Have recent events not shown that the situation is every bit as awful as I have just painted it?
+
+We must acknowledge that the mechanism of spiritual and intellectual oppression which characterises political parties was historically introduced by the Catholic Church in its fight against heresy.
+
+A convert who joins the Church, or a faithful believer who, after inner deliberation, decides to remain in the Church, perceives what is true and good in Catholic dogma. However, as he crosses the threshold, he automatically registers his implicit acceptance of countless specific articles of faith which he cannot possibly have considered – to examine them all a lifetime of study would not be sufficient, even for a person of superior intelligence and culture.
+
+How can anyone subscribe to statements the existence of which he is not even aware? By simply and unconditionally submitting to the authority which issued them!
+
+This is why Saint Thomas Aquinas wished to have his affirmations supported only by the authority of the Church, to the exclusion of any other argumentation. Nothing more is needed for those who accept this authority, he said, and no other argument will persuade those who reject it.
+
+Thus the inner light of evidence, this capacity of perception given from above to the human soul in answer to its desire for truth, is discarded or reduced to discharging menial chores, instead of guiding the spiritual destiny of human creatures. The force that impels thought is no longer the open, unconditional desire for truth, but merely a desire to conform with pre-established teachings.
+
+That the Church established by Christ could thus, to such a large extent, stifle the spirit of truth (in spite of the Inquisition, it failed to stifle it entirely – because mysticism always afforded a safe shelter) is a tragic irony. Many people remarked on it, though another tragic irony was less noticed: the stifling of the spirit by the Inquisitorial regime provoked a revolt – and this very revolt took an orientation that, in turn, fostered further stifling of the spirit.
+
+The Reformation and Renaissance humanism – twin products of this revolt – after three centuries of maturation, inspired in large part the spirit of 1789. This, after some delay, resulted in our democracy, based on the interplay of political parties, each of which is a small secular church that wields its own menace of excommunication. The influence of these parties has contaminated the entire mentality of our age.
+
+When someone joins a party, it is usually because he has perceived, in the activities and propaganda of this party, a number of things that appeared to him just and good. Still, he has probably never studied the position of the party on all the problems of public life. When joining the party, he therefore also endorses a number of positions which he does not know. In fact, he submits his thinking to the authority of the party. As, later on, little by little, he begins to learn these positions, he will accept them without further examination. This replicates exactly the situation of whoever joins the Catholic orthodoxy along the lines of Saint Thomas.
+
+If a man were to say, as he applied for his party membership card, ‘I agree with the party on this and that question; I have not yet studied its other positions and thus I entirely reserve my opinion, pending further information,’ he would probably be advised to come back at a later date.
+
+In fact – and with very few exceptions – when a man joins a party, he submissively adopts a mental attitude which he will express later on with words such as, ‘As a monarchist, as a Socialist, I think that ...’ It is so comfortable! It amounts to having no thoughts at all. Nothing is more comfortable than not having to think.
+
+As regards the third characteristic of political parties – that they are machines to generate collective passions – this is so spectacularly evident that it scarcely needs further demonstration. Collective passion is the only source of energy at the disposal of parties with which to make propaganda and to exert pressure upon the soul of every member.
+
+One recognises that the partisan spirit makes people blind, makes them deaf to justice, pushes even decent men cruelly to persecute innocent targets. One recognises it, and yet nobody suggests getting rid of the organisations that generate such evils.
+
+Intoxicating drugs are prohibited. Some people are nevertheless addicted to them. But there would be many more addicts if the state were to organise the sale of opium and cocaine in all tobacconists, accompanied by advertising posters to encourage consumption.
+
+ *
+
+In conclusion: the institution of political parties appears to be an almost unmixed evil. They are bad in principle, and in practice their impact is noxious. The abolition of parties would prove almost wholly beneficial. It would be a highly legitimate initiative in principle, and in practice could only have a good effect.
+
+At elections, candidates would tell voters not, ‘I wear such and such a label’ – which tells the public nearly nothing as regards their actual position on actual issues – but rather, ‘My views are such and such on such and such important problems.’
+
+Elected politicians would associate and disassociate following the natural and changing flow of affinities. I may very well agree with Mr A on the question of colonial-ism, yet disagree with him on the issue of agrarian ownership, and my relations with Mr B may be the exact reverse.
+
+The artificial crystallisation into political parties coincides so little with genuine affinities that a member of parliament will often find himself disagreeing with a colleague from within his own party, and in complete agreement with a politician from another party. How many times, in Germany in 1932, might a Communist and a Nazi conversing in the street have been struck by a sort of mental vertigo on discovering that they were in complete agreement on all issues!
+
+Outside parliament, intellectual circles would naturally form around journals of political ideas. These circles should remain fluid. This fluidity is the hallmark of a circle based on natural affinities; it distinguishes a circle from a party and prevents it from exerting a noxious influence. When one cultivates friendly relations with the director of a certain journal and with its regular contributors, when one occasionally writes for it, one can say that one is <em>in touch</em> with this journal and its circle, but one is not aware of <em>being part</em> of it; there is no clear boundary between inside and outside. Further away, there are those who read the journal and happen to know one or two of its contributors. Further again, there are regular readers who derive inspiration from the journal. Further still, there are occasional readers. Yet none would ever think or say, ‘As a person related to such journal, I do think that ...’
+
+At election time, if contributors to a journal are political candidates, it should be forbidden for them to invoke their connection with the journal, and it should be forbidden for the journal to endorse their candidacy, to support it directly or indirectly, or even to mention it. Any ‘Association of the friends’ of this sort of journal should be forbidden. If any journal were ever to prevent its contributors from writing for other publications, it should be forced to close.
+
+All this would require a complete set of press regulations, making it impossible for dishonourable publications to carry on with their activity, since none would wish to be associated with them.
+
+Whenever a circle of ideas and debate would be tempted to crystallise and create a formal membership, the attempt should be repressed by law and punished.
+
+Naturally, clandestine parties might appear. It would not be honourable to join them. The members of these underground parties would no longer be able to turn the enslavement of their minds into a public show. They would not be allowed to make any propaganda for their party. The party would have no chance of keeping them prisoner of a tight web of interests, passions and obligations.
+
+Whenever a law is impartial and fair, and is based upon a clear view of the public interest, easily grasped by everyone, it always succeeds in weakening what it forbids. The penalties that are attached to infringements scarcely need be applied: the mere existence of the law is itself enough to neutralise its target. This intrinsic prestige of the law is a reality of public life which has been too long forgotten and ought to be revived and made good use of. The existence of clandestine parties should not cause significant harm – especially compared with the disastrous effects of the activities of legal parties.
+
+Generally speaking, a careful examination reveals no inconveniences that would result from the abolition of political parties. Strange paradox: measures like this, which present no inconvenience, are also the least likely to be adopted. People think, if it is so simple, why was it not done long ago?
+
+And yet, most often, great things are easy and simple.
+
+This particular measure would exert a healthy, cleansing influence well beyond the domain of public affairs, for the party spirit has infected everything.
+
+The institutions that regulate the public life of a country always influence the general mentality – such is the prestige of power. People have progressively developed the habit of thinking, in all domains, only in terms of being ‘in favour of’ or ‘against’ any opinion, and afterwards they seek arguments to support one of these two options. This is an exact transposition of the party spirit.
+
+Just as within political parties, there are some democratically minded people who accept a plurality of parties, similarly, in the realm of opinion, there are broad-minded people willing to acknowledge the value of opinions with which they disagree. They have completely lost the concept of true and false.
+
+Others, having taken a position in favour of a certain opinion, refuse to examine any dissenting view. This is a transposition of the totalitarian spirit.
+
+When Einstein visited France, all the people who more or less belonged to the intellectual circles, including other scientists, divided themselves into two camps: for Einstein or against him. Any new scientific idea finds in the scientific world supporters and enemies – both sides inflamed to a deplorable degree with the partisan spirit. The intellectual world is permanently full of trends and factions, in various stages of crystallisation.
+
+In art and literature, this phenomenon is even more prevalent. Cubism and Surrealism were each a sort of party. Some people were Gidian and some Maurrassian. To achieve celebrity, it is useful to be surrounded by a gang of admirers, all possessed by the partisan spirit.
+
+In the same fashion, there was no great difference between being devoted to a party or being devoted to a church – or being devoted to anti-religion. One was in favour of, or against, belief in God, for or against Christianity, and so on. When talking about religion, the point was even reached where one spoke of ‘militants.’
+
+Even in school, one can think of no better way to stimulate the minds of children than to invite them to take sides – for or against. They are presented with a sentence from a great author and asked, ‘Do you agree, yes or no? Develop your arguments.’ At examination time, the poor wretches, having only three hours to write their dissertations, cannot, at the start, spare more than five minutes to decide whether they agree or not. And yet it would have been so easy to tell them, ‘Meditate on this text, and then express the ideas that come to your mind.’
+
+Nearly everywhere – often even when dealing with purely technical problems – instead of thinking, one merely takes sides: for or against. Such a choice replaces the activity of the mind. This is an intellectual leprosy; it originated in the political world and then spread through the land, contaminating all forms of thinking.
+
+This leprosy is killing us; it is doubtful whether it can be cured without first starting with the abolition of all political parties.
+
+[2] Written in 1943. [Translator’s note]
+
+
+** The Importance of Simone Weil
+
+France offered a rare gift to the contemporary world in the person of Simone Weil. The appearance of such a writer in the twentieth century was against all the rules of probability, yet improbable things do happen.
+
+The life of Simone Weil was short. Born in 1909 in Paris, she died in England in 1943 at the age of thirty-four. None of her books appeared during her own lifetime. Since the end of the war her scattered articles and her manuscripts – diaries, essays – have been published and translated into many languages. Her work has found admirers all over the world, yet because of its austerity it attracts only a limited number of readers in every country. I hope my presentation will be useful to those who have never heard of her.
+
+Perhaps we live in an age that is atheological only in appearance. Millions were killed during the First World War, millions killed or tortured to death in Russia during and after the revolution; and countless victims of Nazism and the Second World War. All this had to have a strong impact upon European thinking. And it seems to me that European thinking has been circling around one problem so old that many people are ashamed to name it. It happens sometimes that old enigmas of mankind are kept dormant or veiled for several generations, then recover their vitality and are formulated in a new language. And the problem is: who can justify the suffering of the innocent? Albert Camus, in <em>The Plague</em>, took up the subject already treated in the Book of Job. Should we return our ticket like Ivan Karamazov because the tear of a child is enough to tip the scale? Should we rebel? Against whom? Can God exist if he is responsible, if he allows what our values condemn as a monstrosity? Camus said no. We are alone in the universe; our human fate is to hurl an eternal defiance at blind inhuman forces, without the comfort of having an ally somewhere, without any metaphysical foundation.
+
+But perhaps if not God, there is a goddess who walks through battlefields and concentration camps, penetrates prisons, gathers every drop of blood, every curse? She knows that those who complain simply do not understand. Everything is counted, everything is an unavoidable part of the pangs of birth and will be recompensed. Man will become a God for man. On the road toward that accomplishment he has to pass through Calvary. The goddess’s name is pronounced with trembling in our age: she is History.
+
+Leszek Kolakowski, a Marxist professor of philosophy in Warsaw, [3] states bluntly that all the structures of modern philosophy, including Marxist philosophy, have been elaborated in the Middle Ages by theologians and that an attentive observer can distinguish old quarrels under new formulations. He points out that History, for instance, is being discussed by Marxists in the terms of theodicy – justification of God. [4]
+
+Irony would be out of place here. The question of Providence, or of lack of Providence, can also be presented in another way. Is there any immanent force located in <em>le devenir</em>, in what is in the state of becoming, a force that pulls mankind up toward perfection? Is there any <em>cooperation</em> between man and a universe that is subject to constant change? So worded, the question is related to the quite recent discovery of the historical dimension, unknown to the rather immobile societies of the past. Curiously enough, Christian theologians are helpless when confronted with those issues. They are ashamed of the providentialist philosophy propagated by Bossuet and other preachers, according to whom God, a super-king, helped good rulers and punished the bad. If it were true, and certainly it is not, the enigma of every individual’s commitment would still remain unsolved. At least one French theologian, Father Fessard, affirms that this is the basic intellectual weakness of modern Christians. As soon as they touch historical problems, they succumb to habits of philosophy alien to them; they become, consciously or unconsciously, Hegelians or Marxists. Their weakness reflects a gap in Thomist doctrine. In Saint Thomas Aquinas, affirms Father Fessard, there are no traces of pronouncements on the historical dimension. He was interested only in the <em>order of reason</em> and in the <em>order of nature</em>. ‘If the historical,’ says Father Fessard, ‘plays a capital role in Hegel, in Marx, and in many philosophers of existence, in the opinion of good judges it is, or rather it seems to be, completely absent from the Thomist doctrine.’ So a Christian dialectician has to invent his very conceptual tools.
+
+Here I end my introduction. It leads towards some vital points in Simone Weil’s thought.
+
+Simone Weil was born into a family of intellectuals of Jewish origin. Her father’s family was from Alsace, her mother’s family had migrated to France from Russia. She grew up among people who respected learning above all, and all her life she preserved a lively interest in modern physics and mathematics. She mastered foreign languages early: besides Latin and Greek as taught in French schools (and her excellent knowledge of Greek proved decisive for her future evolution), German and English. She was not brought up in any religious denomination, and throughout her youth was not concerned with religious problems.
+
+After having completed her university studies at the École Normale Supérieure (where one of her colleagues was Simone de Beauvoir, then a Catholic), Simone Weil started her brief career as a teacher of Greek and of philosophy. A brilliant professor, she was often in trouble with the authorities because of her eccentricity. She was politely ironic towards her bourgeois surroundings and sided with people looked at by the French middle class with horror: the militants of the labour unions and the unemployed workers. Those were the years of the economic crisis. She refused herself the right to earn money if others were starving and kept only a small part of her salary, giving the rest away to union funds and workers’ periodicals. Politically she was on the left, but she never had anything to do with the French Communist Party. She was closest to a small group, La Révolution Prolétarienne, which followed the traditions of French syndicalism. Her numerous political articles on the chances of the workers’ struggle in France, on economic policy, on the causes of Nazism in Germany, as well as her studies on the mechanism of society and on the history of Europe, have been recently collected in a few volumes. Only some of them had been published in her lifetime, in little known magazines.
+
+The desire to share the fate of the oppressed led her to a momentous decision. In spite of bad health, she worked for a year (1934–35) as a simple worker in Paris metallurgical factories; she thus acquired a firsthand knowledge of manual labour. Her essays on that subject (a volume entitled <em>La Condition ouvrière</em>) are a terrible indictment of brutality, callousness, physical and spiritual misery. As she confesses, that year in the factories destroyed her youth and forever left the indelible stigma of a slave upon her (‘like those stigmas branded on the foreheads of slaves by the ancient Romans’).
+
+When the Spanish civil war broke out, Simone Weil left for Barcelona (in 1936), where she enlisted as a soldier in the Colonna Durutti, an anarchist brigade. I stress anarchist – she chose it because the ideal of the anarchists was utopian. But owing to an accident and resulting illness, her stay in Spain was very short.
+
+In 1938 Simone Weil, to use her words, was ‘captured by Christ.’ Nobody has the right to present her biography as a pious story of conversion. We know the pattern: the more violent the turn, the more complete the negation, the better for educational purposes. In her case, one should not use the term ‘conversion.’ She says she had never believed before that such a thing, a personal contact with God, was possible. But she says also that through all her conscious life her attitude had been Christian. I quote: ‘One can be obedient to God only if one receives orders. How did it happen that I received orders in my early youth when I professed atheism?’ I quote again: ‘Religion, in so far as it is a source of consolation, is a hindrance to true faith: in this sense atheism is a purification. I have to be atheistic with the part of myself which is not for God. Among those men in whom the supernatural part has not been awakened, the atheists are right and the believers wrong.’
+
+The unique place of Simone Weil in the modern world is due to the perfect continuity of her thought. Unlike those who have to reject their past when they become Christians, she developed her ideas from before 1938 even further, introducing more order into them, thanks to the new light. Those ideas concerned society, history, Marxism, science.
+
+Simone Weil was convinced that the Roman Catholic Church is the only legitimate guardian of the truth revealed by God incarnate. She strongly believed in the presence, real and not symbolic, of Christ in the Eucharist. She considered belonging to the Church a great happiness. Yet she refused herself that happiness. In her decision not to be baptised and to remain faithful to Christ but outside of His Church, we should distinguish two motives. First, her feeling of personal vocation, of obedience to God who wanted her to stay ‘at the gate’ all her life together with all the neo-pagans. Second, her opposition to the punitive power of the Church directed against the heretics.
+
+After the defeat of France she lived in Marseilles for a while, and in 1942 took a boat to Casablanca and from there to New York in the hope of joining the Committee of Free Frenchmen in London. Her intention was to serve the cause of France with arms in hand if possible. She arrived in London after a few months spent in New York. In 1943 she died in the sanitarium at Ashford, apparently from malnutrition, as she limited her food to the level of rations allotted by the Germans to the French population.
+
+Such was the life of Simone Weil. A life of deliberate <em>foolishness</em>. In one of her last letters to her family, commenting upon the role of fools in Shakespeare’s plays, she says: ‘In this world only human beings reduced to the lowest degree of humiliation, much lower than mendicancy, not only without any social position but considered by everybody as deprived of elementary human dignity, of reason – only such beings have the possibility of telling the truth. All others lie.’ And on herself: ‘Ravings about my intelligence have for their aim the avoidance of the question: Does she tell the truth or not? My position of “intelligent one” is like being labelled “foolish,” as are fools. How much more I would prefer their label!’
+
+Tactless in her writings and completely indifferent to fashions, she was able to go straight to the heart of the matter which preoccupies so many people today. I quote: ‘A man whose whole family died under torture, and who had himself been tortured for a long time in a concentration camp. Or a sixteenth-century Indian, the sole survivor after the total extermination of his people. Such men if they had previously believed in the mercy of God would either believe it no more, or else they would conceive of it quite differently than before.’ Conceive of it how? The solution proposed by Simone Weil is not to the taste of those who worship the goddess of History; it may be heretical from the Thomist point of view as well.
+
+A few words should be said about Simone Weil’s road to Christianity. She was imbued with Greek philosophy. Her beloved master was Plato, read and reread in the original. One can notice a paradox of similarity between our times and the times of decadent Rome, when for many people Plato – that ‘Greek Moses’ as he was sometimes called – served as a guide to the promised land of Christendom. Such was the love of Simone Weil for Greece that she looked at all Greek philosophy as eminently Christian – with one exception: Aristotle, in her words ‘a bad tree which bore bad fruit.’ She rejected practically all Judaic tradition. She was never acquainted with Judaism and did not want to be, as she was unable to pardon the ancient Hebrews their cruelties, for instance the ruthless extermination of all the inhabitants of Canaan. A strange leftist, she categorically opposed any notion of progress in morality, that widely spread view according to which crimes committed three thousand years ago can be justified to a certain extent because men at that time were ‘less developed.’ And she was making early Christianity responsible for introducing, through the idea of ‘divine pedagogy,’ a ‘poison,’ namely, the notion of historical progress in morality. She says: ‘The great mistake of the Marxists and of the whole of the nineteenth century was to think that by walking straight ahead one would rise into the air.’ In her opinion, crimes of the remote past had to be judged as severely as those committed today. That is why she had a true horror of ancient Rome, a totalitarian state not much better than the Hitlerian. She felt early Christians were right when they gave Rome the name of the Apocalyptic Beast. Rome completely destroyed the old civilisations of Europe, probably superior to the civilisation of the Romans who were nothing but barbarians, so skilful in slandering their victims that they falsified for centuries our image of pre-Roman Europe. Rome also contaminated Christianity in its early formative stage. The principle <em>anathema sit</em> is of Roman origin. [5] The only true Christian civilisation was emerging in the eleventh and twelfth centuries in the countries of the Langue d’Oc, between the Mediterranean and the Loire. After it was destroyed by the Frenchmen who invaded that territory from the north and massacred the heretics – the Albigensians – there has not been any Christian civilisation anywhere.
+
+Violent in her judgments and uncompromising, Simone Weil was, at least by temperament, an Albigensian, a Cathar; this is the key to her thought. She drew extreme conclusions from the Platonic current in Christianity. Here we touch perhaps upon hidden ties between her and Albert Camus. The first work by Camus was his university dissertation on Saint Augustine. Camus, in my opinion, was also a Cathar, a pure one, and if he rejected God it was out of love for God because he was not able to justify him. The last novel written by Camus, <em>The Fall</em>, is nothing else but a treatise on Grace – absent Grace – though it is also a satire: the talkative hero, Jean-Baptiste Clamence, who reverses the words of Jesus and instead of ‘Judge not and ye shall not be judged’ gives the advice ‘Judge, and ye shall not be judged,’ could be, I have reasons to suspect, Jean-Paul Sartre.
+
+The Albigensians were rooted in the old Manichaean tradition and, through it, akin to some sects of the Eastern Church of Bulgaria and of Russia. In their eyes God the monarch worshipped by the believers could not be justified as he was a false God, a cruel Jehovah, an inferior demiurge, identical with the Prince of Darkness. Following the Manichaean tradition, Simone Weil used to say that when we pronounce the words of the Lord’s Prayer: ‘Thy kingdom come’ we pray for the end of the world as only then the power of the Prince of Darkness will be abolished. Yet she immediately added that ‘Thy will be done on earth’ means our agreement to the existence of the world. All her philosophy is placed between these two poles.
+
+There is a contradiction between our longing for the good, and the cold universe absolutely indifferent to any values, subject to the iron necessity of causes and effects. That contradiction has been solved by the rationalists and progressives of various kinds who placed the good in this world, in matter, and usually in the future. The philosophy of Hegel and of his followers crowned those attempts by inventing the idea of the good in movement, walking toward fuller and fuller accomplishment in history. Simone Weil, a staunch determinist (in this respect she was not unlike Spinoza), combated such solutions as illegitimate. Her efforts were directed toward making the contradiction as acute as possible. Whoever tries to escape an inevitable contradiction by patching it up is, she affirms, a coward. That is why she has been accused of having been too rigid and having lacked a dialectical touch. Yet one can ask whether she was not more dialectical than many who practise the dialectical art by changing it into an art of compromises and who buy the unity of the opposites too cheaply.
+
+Certainly her vision is not comforting. In the centre we find the idea of the wilful abdication of God, of the withdrawal of God from the universe. I quote: ‘God committed all phenomena without exception to the mechanism of the world.’ ‘The distance between the necessary and the good is the selfsame distance as that between the creature and the Creator.’ ‘Necessity is God’s veil.’ ‘We must let the rational in the Cartesian sense, that is to say mechanical rule or necessity in its humanly demonstrable form, reside wherever we are able to imagine it, so that we might bring to light that which lies outside its range.’ ‘The absence of God is the most marvellous testimony of perfect love, and that is why pure necessity, necessity which is manifestly different from the good, is so beautiful.’
+
+She allows neither the historical Providence of the traditional Christian preachers, nor the historical Providence of the progressive preachers. Does it mean that we are completely in the power of <em>la pesanteur</em>, gravity, that the cry of our heart is never answered? No. There is one exception from the universal determinism and that is Grace. ‘Contradiction,’ says Simone Weil, ‘is a lever of transcendence.’ ‘Impossibility is the door of the supernatural. We can only knock at it. Someone else opens it.’ God absent, God hidden, <em>Deus absconditus</em>, acts in the world through persuasion, through Grace, which pulls us out of <em>la pesanteur</em>, Gravity, if we do not reject his gift. Those who believe that the contradiction between necessity and the good can be solved on any level other than that of mystery delude themselves. ‘We have to be in a desert. For he whom we must love is absent.’ ‘To love God through and across the destruction of Troy and Carthage, and without consolation. Love is not consolation, it is light.’
+
+For Simone Weil, society is as subject to the rule of necessity as all the phenomena of the world. Yet if Nature is nothing but necessity and therefore innocent, below the level of good and evil, society is a domain where beings endowed with consciousness suffer under the heel of an ally and tenant of necessity, the Prince of Darkness. She says: ‘The Devil is collective (this is the God of Durkheim).’ Her stand in politics is summed up in a metaphor she used often, taken from Plato. Plato compares society to a Great Beast. Every citizen has a relationship with that Beast, with the result that asked what is the good, everyone gives an answer in accordance with his function: for one the good consists in combing the hair of the Beast, for another in scratching its skin, for the third in cleaning its nails. In that way men lose the possibility of knowing the true good. In this Simone Weil saw the source of all absurdities and injustices. Man in the clutches of social determinism is no more than an unconscious worshipper of the Great Beast. She was against idealistic moral philosophy as it is a reflection of imperceptible pressures exerted upon individuals by a given social body. According to her, Protestantism also leads inevitably to conventional ethics reflecting national or class interests. As for Karl Marx, he was a seeker of pure truth; he wanted to liberate man from the visible and invisible pressures of group ethics by denouncing them and by showing how they operate. Because of that initial intention of Marx, Marxism is much more precious for the Christians than any idealistic philosophy. Yet Marx, in his desire for truth and justice, while trying to avoid one error fell into another which, argues Simone Weil, always happens if one rejects transcendence, the only foundation of the good accessible to man. Marx opposed class-dominated ethics with the new ethics of professional revolutionaries, also group ethics, and thus paved the way for a new form of domination by the Great Beast. This short aphorism sums up her views: ‘The whole of Marxism, in so far as it is true, is contained in that page of Plato on the Great Beast; and its refutation is there, too.’
+
+But Simone Weil did not turn her back on history and was a partisan of personal commitment. She denied that there is any ‘Marxist doctrine’ and denounced dialectical materialism as a philosophical misunderstanding. In her view dialectical materialism simply does not exist, as the dialectical element and the materialist element, put together, burst the term asunder. By such a criticism she revealed the unpleasant secret known only to the inner circles of the Communist parties. On the contrary, class struggle, filling thousands of years of history, was for her the most palpable reality. Meditations on social determinism led her to certain conclusions as to the main problem of technical civilisation. That problem looks as follows. Primitive man was oppressed by the hostile forces of Nature. Gradually he won his freedom in constant struggle against it; he harnessed the powers of water, of fire, of electricity and put them to his use. Yet he could not accomplish that without introducing a division of labour and an organisation of production. Very primitive societies are egalitarian, they live in the state of ‘primitive communism.’ Members of such communities are not oppressed by other members, fear is located outside as the community is menaced by wild animals, natural cataclysms, and sometimes other human groups. As soon as the efforts of man in his struggle with his surroundings become more productive, the community differentiates into those who order and those who obey. Oppression of man by man grows proportionally to the increase of his realm of action; it seems to be its necessary price. Facing Nature, the member of a technical civilisation holds the position of a god, but he is a slave of society. The ultimate sanction of any domination of man by man is the punishment of death – either by the sword, the gun, or from starvation. Collective humanity emancipated itself. ‘But this collective humanity has itself taken on with respect to the individual the oppressive function formerly exercised by Nature.’
+
+Today Simone Weil could have backed her social analyses with many new examples; it is often being said that under-developed countries can industrialise themselves only at the price of accepting totalitarian systems. China, for instance, would have provided her with much material for reflection.
+
+The basic social and political issue of the twentieth century is: ‘Can this emancipation, won by society, be transferred to the individual?’ Simone Weil was pessimistic. The end of the struggle between those who obey and those who give orders is not in sight, she argued. The dominating groups do not relinquish their privileges unless forced to. Yet in spite of the upheavals of the masses, the very organisation of production soon engenders new masters and the struggle continues under new banners and new names. Heraclitus was right: struggle is the mother of gods and men.
+
+This does not mean we can dismiss history, seeing it as eternal recurrence, and shrug at its spectacle. Willing or not, we are committed. We should throw our act into the balance by siding with the oppressed and by diminishing as much as possible the oppressive power of those who give orders. Without expecting too much: <em>hubris</em>, lack of measure, is punished by Fate, inherent in the laws of iron necessity.
+
+The importance of Simone Weil should be, I feel, assessed in the perspective of our common short-comings. We do not like to think to the bitter end. We escape consequences in advance. Through the rigour exemplified by her life and her writing (classical, dry, concise), she is able to provoke a salutary shame. Why does she fascinate so many intellectuals today? Such is my hypothesis: If this is a theological age, it has a marked bias for Manichaeism. Modern literature testifies to a sort of rage directed against the world, which no longer seems the work of a wise clockmaker. The humour of that literature (and think of Beckett, Ionesco, Genet), if it is humour at all, is a sneer, a <em>ricanement</em>, thrown in the face of the universe. Professor Michael Polanyi has recently advanced the thesis that the most characteristic feature of the last decades has been not a moral laxity but a moral frenzy exploding in the literature of the absurd as well as in revolutionary movements. Political assassination has been practised in the name of man’s victory over the brutal order of Nature. Yet the belief in the magic blessings of History is being undermined by the very outcome of that belief: industrialisation. It is more and more obvious (in the countries of Eastern Europe as well) that refrigerators and television sets, or even rockets sent to the moon, do not change man into God. Old conflicts between human groups have been abolished but are replaced by new ones, perhaps more acute.
+
+I translated the selected works of Simone Weil into Polish in 1958 not because I pretended to be a ‘Weilian.’ I wrote frankly in the preface that I consider myself a Caliban, too fleshy, too heavy, to take on the feathers of an Ariel. Simone Weil was an Ariel. My aim was utilitarian, in accordance, I am sure, with her wishes as to the disposition of her works. A few years ago I spent many afternoons in her family’s apartment overlooking the Luxembourg Gardens – at her table covered with ink stains from her pen – talking to her mother, a wonderful woman in her eighties. Albert Camus took refuge in that apartment the day he received the Nobel Prize and was hunted by photographers and journalists. My aim, as I say, was utilitarian. I resented the division of Poland into two camps: the clerical and the anticlerical, nationalistic Catholic and Marxist – I exclude of course the <em>apparatchiki</em>, bureaucrats just catching every wind from Moscow. I suspect unorthodox Marxists (I use that word for lack of a better one) and non-nationalistic Catholics have very much in common, at least common interests. Simone Weil attacked the type of religion that is only a social or national conformism. She also attacked the shallowness of the so-called progressives. Perhaps my intention, when preparing a Polish selection of her works, was malicious. But if a theological fight is going on – as it is in Poland, especially in high schools and universities – then every weapon is good to make adversaries goggle-eyed and to show that the choice between Christianity as represented by a national religion and the official Marxist ideology is not the only choice left to us today.
+
+In the present world, torn asunder by a much more serious religious crisis than appearances would permit us to guess, Catholic writers are often rejected by people who are aware of their own misery as seekers and who have a reflex of defence when they meet proud possessors of the truth. The works of Simone Weil are read by Catholics and Protestants, atheists and agnostics. She has instilled a new leaven into the life of believers and unbelievers by proving that one should not be deluded by existing divergences of opinion and that many a Christian is a pagan, many a pagan a Christian in his heart. Perhaps she lived exactly for that. Her intelligence, the precision of her style, were nothing but a very high degree of attention given to the sufferings of mankind. And, as she says, ‘Absolutely unmixed attention is prayer.’
+
+<em>Czeslaw Milosz</em>
+<br>
+<em>1960</em>
+
+
+
+[3] At the time of this writing. [1960]
+
+[4] His essay ‘The Priest and the Jester,’ English translation in <em>Towards a Marxist Humanism.</em>
+
+[5] Excommunication formula, used in condemning an individual convicted of heresy.
+
+** In the Light of Simone Weil
+
+<em>Milosz and the Friendship of Camus</em>
+
+Medical scientists relying upon population statistics have established that the most remarkable instances of longevity are found hidden in remote mountains, among individuals who lead uneventful, monotonous and boring lives. The poet Czeslaw Milosz, who died at the age of ninety-three, still creative to the end, after a dramatic existence that had thrown him into the very heart of some of the most dreadful episodes of the twentieth century, seems to have followed quite the opposite recipe – but then, poets are hardly material for statistics.
+
+Born in 1911, in a small town of Tsarist Russia (all his life, by the way, like many other Polish intellectuals – see Conrad! – he was to observe the Russian enigma with deep insight and horrified fascination), he was the scion of an aristocratic family, half-Polish and half-Lithuanian. In early childhood, he shared the nomadic life of his father, a civil engineer who was sent to various corners of Siberia in charge of the construction of government buildings, and thus he witnessed some of the fighting of the Bolshevik revolution. These early experiences provided a fitting prelude to the turmoils of his later life.
+
+Milosz spent his youth and student years in Wilno, a baroque and cosmopolitan city where the main spoken languages were Polish and Yiddish, with also a smattering of Lithuanian, Byelorussian and Russian. In the 1930s, he went to live in Paris, where he perfected his excellent knowledge of French language and literature and enjoyed the guidance and affection of a distant relative who became his spiritual mentor, O.V. de L. Milosz (1877–1939), a former Lithuanian diplomat who had become a much admired French poet. The elder Milosz gave the younger decisive encouragement to follow his poetic calling.
+
+Back in Poland, on the eve of war, Milosz worked for the national radio. In 1939, from the beginning of the German invasion, he took an active part in the underground resistance to the Nazis. German occupation was particularly savage in Poland; as Milosz himself observed later, ‘Horror is the law of living creatures, and civilisation is concerned with masking that truth ... The habits of civilisation have a certain enduring quality, and the Germans in occupied Western Europe were obviously embarrassed and concealed their aims, while in Poland they acted completely openly.’ [6]
+
+This confrontation with naked horror was to leave an indelible imprint upon his own vision of reality. The everyday order of our lives may seem to us natural and permanent, but it is in fact as fragile and illusory as the cardboard props on a theatrical stage. It can collapse in a flash and turn at once into black chaos. Our condition is precarious; even basic human decency can shatter and vanish in an instant: ‘The nearness of death destroys shame. Men and women change as soon as they know that the date of their execution has been fixed by a fat little man with shiny boots and a riding crop. They copulate in public, on a small bit of ground surrounded by barbed wire – their last home on Earth.’ [7]
+
+After the war, like many Polish intellectuals who hoped that, by collaborating with the Communist regime, they might help it to reform itself, Milosz became a diplomat and was sent as cultural attaché, first to Washington and then to Paris. He understood very quickly that serving a Stalinist regime would entail not only morally and intellectually unacceptable compromise, but more simply would provoke downright revulsion: ‘A man may persuade himself by the most logical reasoning that he will greatly benefit his health by swallowing live frogs; and thus rationally convinced, he may swallow a first frog, then a second, but at the third his stomach will revolt.’ [8]
+
+In 1951, he abandoned his posting, broke with the regime, and made a jump without return into ‘the abyss of exile,’ ‘the worst of all misfortunes, for it meant sterility and inaction.’ Unlike most exiled writers, however, he stuck with his mother language, his most precious belonging. With the exception of his private correspondence (in French and in English), he continued, until death, to do nearly all his writing in Polish.
+
+The first ten years of his exile were spent in France. This was a period of extreme hardship, isolation and despair. The insecurity of his material conditions – to support his young family he had nothing but the precarious earnings from his pen – was further compounded by political ostracism from Parisian intellectual circles, whose cowardice and stupidity he was never to forget nor forgive. At first, and as long as he was carrying the prestigious title of an official representative of ‘Democratic Poland,’ the French ‘progressive’ intelligentsia (under the pontificate of Sartre–Beauvoir), had warmly welcomed him; but as soon as it became known that he had defected, he was treated as a leper. Even at his publisher’s office (Gallimard – the most prestigious and influential publisher in Paris), one editor took the thoughtful initiative of submitting his manuscripts to receive the <em>imprimatur</em> of a censor from the Polish embassy!
+
+In 1953, he made his situation even worse by publishing what was to become his most influential work, <em>The Captive Mind</em>, written ‘not <em>for</em> a Western audience, but <em>against</em> it’ – against its obtuse and wilful blindness; the purpose was indeed to remind his readers that ‘if something exists in one place, it will exist everywhere.’ [9] Yet, with their appalling lack of imagination, ‘the inhabitants of Western countries little realise that millions of their fellow men who seem superficially more or less similar to them live in a world as fantastic as that of the men from Mars.’ Let us not forget: ‘Man is so plastic a being that one can even conceive of the day when a thoroughly self-respecting citizen can crawl about on all fours, sporting a tail of brightly coloured feathers as a sign of conformity to the order he lives in.’ [10] At the very moment when the intellectual and literary world was shunning him as if he had the plague, one man, a man of courage and integrity, extended to him a brotherly hand and helped him survive: Albert Camus. Soon, a deep friendship developed between the two writers – a friendship that was further strengthened by their shared admiration for Simone Weil.
+
+Regarding Camus, one cannot fully understand his intellectual and spiritual development during the last part of his life – from the end of the war till his premature death in 1960 – without taking into account the exceptional importance of the influence on him of Simone Weil’s thought and the example of her life. It is a point which even his best biographers have not fully grasped, thus confirming Emerson’s opinion that literary biography is a vain and futile exercise, since it attempts to describe lives, the most significant events of which, by very definition, took place in a realm of silence and invisibility. [11]
+
+As early as 1948, Camus undertook to publish, in a series (‘L’Espoir’) of which he was the director at Gallimard, two of the main works of Simone Weil on social and political issues, <em>L’Enracinement</em> and <em>La Condition ouvrière</em> (by the way, these two books were the most successful of the entire series). Together with Gustave Thibon (who undertook at the same time to edit a selection of Weil’s philosophical and religious writings), he thus became one of the earliest and most devoted guardians of her memory. More importantly, her writings became a constant source of inspiration for his own thinking, as is attested in many passages from his notebooks and was confirmed publicly on the occasion of his Nobel Prize in 1957: at a press conference in Stockholm, shortly before the ceremony, on being asked which living writers were most important to him, he named several friends, Algerian and French, then added, ‘And also Simone Weil – sometimes the dead are closer to us than the living.’
+
+Some ten years earlier, as he was editing Simone Weil’s writings for publication, he made contact with her parents, who gave him a warm welcome, especially her mother, Mme Bernard Weil, who was herself a most remarkable person. Milosz came to know her too, and after Camus’ death – which deeply affected Mme Weil – he continued to visit her. [12] At the end of his essay on Weil, Milosz records a touching and revealing anecdote: the day Camus learned that he had been awarded the Nobel Prize for Literature, as he was being chased by a pack of journalists and photographers, he ran for shelter at Mme Weil’s apartment. We know that for Camus, who was wracked by self-doubt, this crushing honour was in many respects an ordeal: far from it giving him self-confidence, he was staggered and overwhelmed by it. Just as a religious believer, when hit by a stunning shock, spontaneously enters a church for a moment of silent contemplation, Camus experienced the need to meditate quietly, alone, in the old room where young Simone thought and wrote.
+
+In 1960, Milosz settled in the United States, where the University of California, Berkeley, offered him the chair of Slavic languages and literature. His academic activities did not interrupt the pursuit of his own literary work – more than forty volumes of poetry and essays, crowned by various prizes, including eventually, in 1980, the Nobel itself. After the collapse of communism and till his death in 2004, he shared his time between Berkeley and Cracow. After having been away for more than half a century, he must have found his native country more foreign than the foreign lands where he had spent the greater part of his life and where he produced the best of his creative work – itself a fruit of exile.
+
+For Milosz, as for Camus, the discovery of Simone Weil’s writings gave a new orientation to his spiritual life. [13] One finds traces of this revelation all through his essays, his correspondence and even his teaching at the university (he gave a course on Manichaeism, directly inspired by Weil’s views on the subject, and edited in Polish a thick volume of her selected essays).
+
+The religious position of Milosz appears both symmetrical with and opposite to that of Simone Weil. Her remark on the pagans who are naturally Christian, and the Christians who are naturally pagan, could fairly well summarise their respective situations. Simone Weil had a great desire to join the Church, in order to be allowed to partake in the sacraments; she denied herself this blessed privilege: she deliberately did not cross the threshold and remained outside – in solidarity with, and out of compassion for, the wretched condition of the neo-pagans. Milosz, conversely, born and educated within the Church, often wished to leave it; he wished to escape both the Polish Church of his childhood – political and chauvinistic – and the dismal caricature of Protestantism into which he saw that Western post-conciliar Catholicism was hopelessly drifting. [14]
+
+Milosz once defined himself as an ‘ecstatic pessimist’ and it is perhaps in this that he most resembles Simone Weil. In front of the mystery of evil, there is not much room in their faith for a Providence (that would comfort suffering), nor for a Communion of the Saints (that would endow suffering with meaning).
+
+Is a consoling religion a debased form of religion? ‘Love is not a consolation, it is a light’ – this sentence of Simone Weil is admirable; but why should light not be consoling? At least, this is how the humble souls perceive it, when they piously light candles in front of the holy images of the Virgin Mary, or of some saints. Yet, of course, we can hardly imagine our philosopher – with her implacable genius – ever indulging in such practices (which, however, Pascal himself did not despise). [15]
+
+<em>Simon Leys</em>
+
+[6] Milosz, <em>Milosz’s ABCs</em>. Farrar, Straus & Giroux, New York, 2001, ‘Anus mundi,’ pp. 39–40.
+
+[7] Milosz, <em>The Captive Mind</em>. Secker & Warburg, London, 1953, p. 28.
+
+[8] ibid., pp. xii–xiii.
+
+[9] ibid., p. 29.
+
+[10] ibid. p. 29.
+
+[11] ‘Geniuses have the shortest biographies because their inner lives are led out of sight and earshot; and in the end their cousins can tell you nothing about them.’
+
+[12] Milosz mentions this in a letter to his American friend the Trappist monk and writer Thomas Merton. See <em>Striving towards Being: the Letters of Thomas Merton and Czeslaw Milosz</em>. Farrar, Straus & Giroux, New York, 1997, p. 68.
+
+[13] The religious problem occupied a significant place in the friendship between Camus and Milosz. Camus was an atheist who doubted his own atheism, and Milosz was a Christian who doubted his own Christianity. Doubt was a common concern of both; the mystical certainty of Simone Weil was for them a guiding light in the mist. (Of course, I am grossly simplifying here a very complex issue.)
+<br>
+On discovering Simone Weil at a time of harsh isolation and deep disarray – when writing <em>The Captive Mind</em> – see his first letter to Thomas Merton (op. cit., p. 8): ‘I went to much despair. I was helped in my despair by things and some human beings – among others, by Simone Weil, through her writings. I felt afterwards she could help not only me and succeeded in publishing her <em>Chosen Writings</em> in my Polish translation – a book of 350 pages ...’
+
+[14] Partaking in the sacraments was a problem for him, but he took his children to Sunday Mass – thus repeating in a certain way the dilemma of Camus: ‘I remember one conversation with Camus. He asked me if, in my opinion, it was appropriate that he, an atheist, should send his children to first communion. This conversation took place shortly after my visit with Karl Jaspers in Basel, whom I had asked about raising my children as Catholics. Jaspers had responded that as a Protestant he was not favourably inclined towards Catholicism, but that children must be raised in their own faith, if only to give them access to the biblical tradition, and that later they could make their own choice. I responded to Camus’s question in more or less the same vein.’ <em>Milosz’s ABCs</em>, pp. 77–78.
+
+[15] Pascal, Pensées. Kaplan edition: pensée 115, Lafuma ed.: pensée 418.
+
+** Acknowledgement
+
+I wish to express my gratitude to Chris Feik: once again, my work greatly benefited from his editorial skills.
+
+<em>S.L.</em>
+
+
+

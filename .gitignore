@@ -1,0 +1,23 @@
+# Le Guin texts are under copyright — never commit raw OR derived corpus
+authors/le_guin/data/raw/*
+!authors/le_guin/data/raw/.gitkeep
+authors/le_guin/data/processed/
+authors/le_guin/data/chat/
+
+# Model + training artifacts (regenerable from scripts)
+authors/*/model/
+authors/*/chat_model/
+**/checkpoints/
+results/
+*.bin
+*.safetensors
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+
+# Tokenizer caches from the old setup
+cached_lm_*

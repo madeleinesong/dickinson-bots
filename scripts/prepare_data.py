@@ -1,0 +1,165 @@
+#!/usr/bin/env python3
+"""Clean raw author texts into a single training-ready corpus.
+
+Usage:
+    python scripts/prepare_data.py <author>     # e.g. weil, dickinson, le_guin
+    python scripts/prepare_data.py --all
+
+Reads:  authors/<author>/data/raw/*.{txt,muse}
+Writes: authors/<author>/data/processed/<author>.txt   (cleaned, concatenated)
+
+The goal is a corpus that is *only the author's own voice* — boilerplate,
+editorial apparatus, footnotes, and (for anthologies) sections written by other
+people are stripped, because anything left in gets learned as "their voice".
+"""
+import argparse
+import re
+import sys
+import unicodedata
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+AUTHORS_DIR = ROOT / "authors"
+
+# --- per-file overrides ----------------------------------------------------
+# For .muse anthology files, keep ONLY the sections actually written by the
+# author. Sections are delimited by "** Heading" lines in Muse format.
+# key = filename, value = (keep_from_heading, stop_before_heading) substrings.
+MUSE_KEEP_SECTIONS = {
+    "abolition_political_parties.muse": (
+        "On the Abolition of All Political Parties",  # Weil's essay starts here
+        "The Importance of Simone Weil",              # Milosz appendix starts here
+    ),
+}
+
+
+# --- cleaning primitives ---------------------------------------------------
+def strip_gutenberg(text: str) -> str:
+    """Drop Project Gutenberg license header/footer if present."""
+    start = re.search(r"\*\*\* ?START OF (THE|THIS) PROJECT GUTENBERG.*?\*\*\*", text, re.I)
+    end = re.search(r"\*\*\* ?END OF (THE|THIS) PROJECT GUTENBERG.*?\*\*\*", text, re.I)
+    if start:
+        text = text[start.end():]
+    if end:
+        text = text[:end.start()]
+    return text
+
+
+def strip_muse(text: str, fname: str) -> str:
+    """Strip Muse markup, metadata header, footnotes, and non-author sections."""
+    # 1) drop the #title/#author/#date... metadata header block
+    lines = text.splitlines()
+    lines = [ln for ln in lines if not ln.lstrip().startswith("#")]
+    text = "\n".join(lines)
+
+    # 2) keep only the author's own section(s) if configured
+    if fname in MUSE_KEEP_SECTIONS:
+        keep_from, stop_before = MUSE_KEEP_SECTIONS[fname]
+        s = text.find("** " + keep_from)
+        e = text.find("** " + stop_before)
+        if s != -1:
+            text = text[s:e] if e != -1 else text[s:]
+
+    # 3) drop the section heading lines themselves and footnote definitions
+    out = []
+    for ln in text.splitlines():
+        if ln.startswith("** ") or ln.startswith("* "):
+            continue                       # section headings
+        if re.match(r"^\[\d+\]", ln.strip()):
+            continue                       # footnote definitions: "[1] ibid."
+        out.append(ln)
+    text = "\n".join(out)
+
+    # 4) inline markup: <em>..</em>, <br>, <sup>..</sup>, [[link][label]], [3]
+    text = re.sub(r"\[\[[^\]]*\]\[([^\]]*)\]\]", r"\1", text)  # wiki link -> label
+    text = re.sub(r"<[^>]+>", "", text)                        # html-ish tags
+    text = re.sub(r"\[\d+\]", "", text)                        # inline footnote refs
+    text = text.replace("/", "")                               # stray muse emphasis
+    return text
+
+
+def normalize(text: str) -> str:
+    """Whitespace, hyphenation, OCR punctuation-spacing, and quote cleanup."""
+    text = unicodedata.normalize("NFKC", text)
+    text = text.replace("­", "")            # soft hyphen
+    text = text.replace("﻿", "")            # BOM
+
+    # join words broken across a line by a hyphen:  "signal-\nized" -> "signalized"
+    text = re.sub(r"(\w)[-‐]\s*\n\s*(\w)", r"\1\2", text)
+
+    # OCR artifact: spaces *around* punctuation -> "word , then" -> "word, then"
+    text = re.sub(r"\s+([,.;:!?])", r"\1", text)
+    text = re.sub(r"([,.;:!?])(?=\w)", r"\1 ", text)   # ensure a space after
+
+    # spaced/curly quotes:  “ word ”  ->  “word”
+    text = re.sub(r"([“‘])\s+", r"\1", text)
+    text = re.sub(r"\s+([”’])", r"\1", text)
+
+    # rejoin contractions/possessives split by an apostrophe: "Isn' t" -> "Isn't"
+    text = re.sub(r"\s*([’'])\s*(t|s|ll|re|ve|d|m)\b", r"\1\2", text, flags=re.I)
+
+    # collapse runs of spaces/tabs and excess blank lines
+    text = re.sub(r"[ \t]+", " ", text)
+    text = re.sub(r" *\n *", "\n", text)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text.strip()
+
+
+def clean_file(path: Path) -> str:
+    raw = path.read_text(encoding="utf-8", errors="replace")
+    if path.suffix == ".muse":
+        raw = strip_muse(raw, path.name)
+    else:
+        raw = strip_gutenberg(raw)
+    return normalize(raw)
+
+
+# --- driver ----------------------------------------------------------------
+def process_author(author: str) -> None:
+    raw_dir = AUTHORS_DIR / author / "data" / "raw"
+    out_dir = AUTHORS_DIR / author / "data" / "processed"
+    files = sorted(p for p in raw_dir.iterdir()
+                   if p.is_file() and p.suffix in {".txt", ".muse"})
+    if not files:
+        print(f"  [{author}] no raw files in {raw_dir} — skipping")
+        return
+
+    out_dir.mkdir(parents=True, exist_ok=True)
+    parts, rows = [], []
+    for f in files:
+        cleaned = clean_file(f)
+        parts.append(cleaned)
+        rows.append((f.name, len(f.read_text(encoding="utf-8", errors="replace").split()),
+                     len(cleaned.split())))
+
+    corpus = "\n\n".join(parts) + "\n"
+    out_path = out_dir / f"{author}.txt"
+    out_path.write_text(corpus, encoding="utf-8")
+
+    print(f"\n[{author}] -> {out_path.relative_to(ROOT)}")
+    print(f"  {'file':<40} {'raw words':>10} {'clean words':>12}")
+    for name, rw, cw in rows:
+        print(f"  {name:<40} {rw:>10,} {cw:>12,}")
+    print(f"  {'TOTAL':<40} {sum(r[1] for r in rows):>10,} {len(corpus.split()):>12,}")
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("author", nargs="?", help="author dir name (e.g. weil)")
+    ap.add_argument("--all", action="store_true", help="process every author")
+    args = ap.parse_args()
+
+    if args.all:
+        authors = sorted(p.name for p in AUTHORS_DIR.iterdir()
+                         if (p / "data" / "raw").is_dir())
+    elif args.author:
+        authors = [args.author]
+    else:
+        ap.error("give an author name or --all")
+
+    for a in authors:
+        process_author(a)
+
+
+if __name__ == "__main__":
+    main()
