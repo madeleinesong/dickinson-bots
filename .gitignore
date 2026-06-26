@@ -21,3 +21,6 @@ venv/
 
 # Tokenizer caches from the old setup
 cached_lm_*
+
+# Saved chat transcripts (per-session runtime logs)
+authors/*/chats/

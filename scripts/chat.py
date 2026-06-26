@@ -14,6 +14,8 @@ import argparse
 from pathlib import Path
 
 import torch
+from datetime import datetime
+
 from peft import PeftModel
 from transformers import AutoModelForCausalLM, AutoTokenizer, TextStreamer
 
@@ -45,7 +47,17 @@ def main():
     system = system_for(args.author)
     history = [{"role": "system", "content": system}]
     tag = f"{args.author}" + ("(base)" if args.base else "")
-    print(f"— chatting with {tag}.  /reset to clear, /quit to exit —\n")
+
+    # auto-save the transcript so conversations are openable later
+    stamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    log_path = ROOT / "authors" / args.author / "chats" / f"chat_{stamp}.md"
+    log_path.parent.mkdir(parents=True, exist_ok=True)
+    log = log_path.open("w", encoding="utf-8")
+    log.write(f"# Chat with {tag}\nmodel base: {base}\nstarted: {stamp}\n\n")
+    log.flush()
+
+    print(f"— chatting with {tag}.  /reset to clear, /quit to exit —")
+    print(f"  (saving transcript to {log_path.relative_to(ROOT)})\n")
 
     while True:
         try:
@@ -58,6 +70,7 @@ def main():
             break
         if user == "/reset":
             history = [{"role": "system", "content": system}]
+            log.write("\n---\n\n"); log.flush()
             print("(history cleared)\n"); continue
 
         history.append({"role": "user", "content": user})
@@ -74,6 +87,8 @@ def main():
                                  streamer=streamer)
         reply = tok.decode(out[0, inputs["input_ids"].shape[1]:], skip_special_tokens=True).strip()
         history.append({"role": "assistant", "content": reply})
+        log.write(f"**you ▸** {user}\n\n**{args.author} ▸** {reply}\n\n")
+        log.flush()
         print()
 
 
