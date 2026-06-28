@@ -49,6 +49,10 @@ def strip_dickinson_poems(text: str) -> str:
     # section "I. LIFE." — drop that whole front-matter block for every series.
     text = re.sub(r"(?ms)^POEMS\s*$.*?(?=^I\.\s*LIFE\.)", "", text)
     text = re.sub(r"\[[^\]]*\]", "", text)                       # [Published in ...] notes
+    # drop editor scaffolding: Roman-numeral poem indices and ALL-CAPS titles
+    # (Dickinson's poems were untitled; titles/sections were added by editors)
+    text = re.sub(r"(?m)^\s*[IVXLC]+\.\s*$", "", text)
+    text = re.sub(r"(?m)^\s*[A-Z][A-Z'’ .,;:!?-]{2,}\s*$", "", text)
     return text
 
 
