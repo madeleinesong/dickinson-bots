@@ -29,6 +29,17 @@ ceiling of what's freely usable, since her books are under copyright. For a real
 voice model you'll want to add essays/fiction you personally own (see
 `le_guin/data/README.md`). Those go in `raw/` and are gitignored.
 
+## Hugo (d. 1885 — public domain)
+| File | Source | Words |
+|------|--------|-------|
+| `hugo/data/raw/les_miserables.txt` | *Les Misérables*, Gutenberg #135 (Hapgood trans.) | ~566k |
+| `hugo/data/raw/notre_dame_de_paris.txt` | *Notre-Dame de Paris*, Gutenberg #2610 (Hapgood trans.) | ~188k |
+
+Public-domain English translations (chosen for consistency with the other English
+bots; the originals are French). `strip_hugo` drops the title page, table of
+contents, VOLUME/BOOK/CHAPTER headings, and the list of illustrations, leaving
+~741k words of prose.
+
 ## De-duplication notes
 - Dropped `dickinson/poems.txt` (subset of the Gutenberg complete edition).
 - Dropped `dickinson/archive_letters_1894.txt` (OCR-noisy subset of the Todd letters).

@@ -61,8 +61,9 @@ caffeinate -is .venv/bin/python scripts/train_chat.py weil \
 - **Data quality > quantity for voice.** Corpus must be the author's own words;
   `prepare_data.py` strips editorial apparatus, footnotes, and other authors'
   sections (e.g. the translator/Miłosz material in the Weil source).
-- Status: Weil trained (~520k-word corpus). Dickinson processed-pending. Le Guin
-  corpus is small (~7.5k words) — see `authors/le_guin/data/README.md`.
+- Status: chat bots trained for **Weil** (~517k words), **Dickinson** (27.7k words,
+  pure verse), and **Hugo** (~741k words, Les Mis + Notre-Dame). Le Guin not built
+  — corpus only ~7.5k words (copyright); see `authors/le_guin/data/README.md`.
 
 ## Reference: first run (Weil, Qwen2.5-0.5B, 3 epochs)
 loss 3.21 → 2.83, ~8.7 min on M5 Max. Samples picked up Weil's core vocabulary —
