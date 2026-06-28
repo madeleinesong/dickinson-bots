@@ -32,6 +32,25 @@ MUSE_KEEP_SECTIONS = {
     ),
 }
 
+# Files whose editorial apparatus is too entangled with the text to separate
+# automatically — excluded so the corpus stays author-voice-only.
+SKIP_FILES = {
+    # Todd's 1894 letters weave biographical narration around the letters;
+    # excluded for now (the poems are clean Dickinson on their own).
+    "dickinson": {"letters_todd_1894.txt"},
+}
+
+
+def strip_dickinson_poems(text: str) -> str:
+    """Keep only Dickinson's poems from the 3-series Gutenberg edition: drop the
+    title page + each series' editorial PREFACE, and bracketed publication notes."""
+    # each of the 3 series opens with a title page ("POEMS / by EMILY DICKINSON /
+    # <Series> / Edited by ... / PREFACE / <preface>") that ends at the first poem
+    # section "I. LIFE." — drop that whole front-matter block for every series.
+    text = re.sub(r"(?ms)^POEMS\s*$.*?(?=^I\.\s*LIFE\.)", "", text)
+    text = re.sub(r"\[[^\]]*\]", "", text)                       # [Published in ...] notes
+    return text
+
 
 # --- cleaning primitives ---------------------------------------------------
 def strip_gutenberg(text: str) -> str:
@@ -111,6 +130,8 @@ def clean_file(path: Path) -> str:
         raw = strip_muse(raw, path.name)
     else:
         raw = strip_gutenberg(raw)
+        if path.name == "gutenberg_poems_complete.txt":
+            raw = strip_dickinson_poems(raw)
     return normalize(raw)
 
 
@@ -118,8 +139,9 @@ def clean_file(path: Path) -> str:
 def process_author(author: str) -> None:
     raw_dir = AUTHORS_DIR / author / "data" / "raw"
     out_dir = AUTHORS_DIR / author / "data" / "processed"
+    skip = SKIP_FILES.get(author, set())
     files = sorted(p for p in raw_dir.iterdir()
-                   if p.is_file() and p.suffix in {".txt", ".muse"})
+                   if p.is_file() and p.suffix in {".txt", ".muse"} and p.name not in skip)
     if not files:
         print(f"  [{author}] no raw files in {raw_dir} — skipping")
         return

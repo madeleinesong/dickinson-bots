@@ -96,6 +96,9 @@ def main():
     ap.add_argument("--limit", type=int, default=600)
     ap.add_argument("--batch-size", type=int, default=16)
     ap.add_argument("--target-words", type=int, default=100)
+    ap.add_argument("--min-words", type=int, default=45,
+                    help="lower for terse authors (e.g. Dickinson poems)")
+    ap.add_argument("--max-words", type=int, default=170)
     args = ap.parse_args()
 
     device = "mps" if torch.backends.mps.is_available() else "cpu"
@@ -103,7 +106,7 @@ def main():
     corpus = (ROOT / "authors" / args.author / "data" / "processed" /
               f"{args.author}.txt").read_text(encoding="utf-8")
 
-    passages = split_passages(corpus, args.target_words)
+    passages = split_passages(corpus, args.target_words, args.min_words, args.max_words)
     # oversample ~30% (some questions get filtered as junk), even stride for variety
     want = int(args.limit * 1.3)
     if len(passages) > want:
