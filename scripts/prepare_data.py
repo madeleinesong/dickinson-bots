@@ -46,6 +46,13 @@ def strip_hugo(text: str) -> str:
     illustration markers from the Gutenberg Hugo editions — leaving the prose.
     (The heading regex clears both the TOC entries and the inline headings.)"""
     text = re.sub(r"\[[^\]]*\]", "", text)                          # [Illustration: ...]
+    # cut all front matter (title page, contents, list of illustrations) by jumping
+    # to the first substantial paragraph of prose
+    paras = re.split(r"\n\s*\n", text)
+    for i, p in enumerate(paras):
+        if len(p.split()) >= 30:
+            text = "\n\n".join(paras[i:])
+            break
     text = re.sub(r"(?m)^\s*(VOLUME|BOOK|CHAPTER|PART)\b.*$", "", text)
     text = re.sub(r"(?m)^\s*(Contents|LES MISÉRABLES|NOTRE-DAME DE PARIS|PREFACE)\s*$",
                   "", text)
