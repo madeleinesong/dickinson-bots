@@ -29,7 +29,10 @@ def main():
     ap.add_argument("author")
     ap.add_argument("--temp", type=float, default=0.7)
     ap.add_argument("--top-p", type=float, default=0.9)
-    ap.add_argument("--max-new", type=int, default=256)
+    ap.add_argument("--max-new", type=int, default=320,
+                    help="ceiling only — the model usually stops itself sooner")
+    ap.add_argument("--min-new", type=int, default=0,
+                    help="floor: force at least this many tokens before stopping")
     ap.add_argument("--base", action="store_true",
                     help="chat with the un-fine-tuned base model (for comparison)")
     args = ap.parse_args()
@@ -81,7 +84,8 @@ def main():
         print(f"{args.author} ▸ ", end="", flush=True)
         streamer = TextStreamer(tok, skip_prompt=True, skip_special_tokens=True)
         with torch.no_grad():
-            out = model.generate(**inputs, max_new_tokens=args.max_new, do_sample=True,
+            out = model.generate(**inputs, max_new_tokens=args.max_new,
+                                 min_new_tokens=args.min_new, do_sample=True,
                                  temperature=args.temp, top_p=args.top_p,
                                  repetition_penalty=1.2, pad_token_id=tok.eos_token_id,
                                  streamer=streamer)
