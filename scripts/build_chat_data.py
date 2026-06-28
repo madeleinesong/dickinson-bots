@@ -22,7 +22,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 ROOT = Path(__file__).resolve().parent.parent
 
 AUTHOR_NAME = {"weil": "Simone Weil", "dickinson": "Emily Dickinson",
-               "le_guin": "Ursula K. Le Guin"}
+               "le_guin": "Ursula K. Le Guin", "hugo": "Victor Hugo"}
 
 GEN_SYS = (
     "You help build a question-answering dataset. You are given a passage written "

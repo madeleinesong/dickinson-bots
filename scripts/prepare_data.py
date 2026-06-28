@@ -41,6 +41,22 @@ SKIP_FILES = {
 }
 
 
+def strip_hugo(text: str) -> str:
+    """Drop the table of contents, per-section VOLUME/BOOK/CHAPTER headings, and
+    illustration markers from the Gutenberg Hugo editions — leaving the prose.
+    (The heading regex clears both the TOC entries and the inline headings.)"""
+    text = re.sub(r"\[[^\]]*\]", "", text)                          # [Illustration: ...]
+    text = re.sub(r"(?m)^\s*(VOLUME|BOOK|CHAPTER|PART)\b.*$", "", text)
+    text = re.sub(r"(?m)^\s*(Contents|LES MISÉRABLES|NOTRE-DAME DE PARIS|PREFACE)\s*$",
+                  "", text)
+    # drop standalone ALL-CAPS lines: chapter titles + list-of-illustrations captions
+    text = re.sub(r"(?m)^\s*[A-ZÀ-Þ][A-ZÀ-Þ0-9'’.,;:!?()\- ]{3,}\s*$", "", text)
+    # drop the title-page metadata lines
+    text = re.sub(r"(?m)^\s*(By Victor Hugo|Translated by .*|Thomas Y\. Crowell.*|"
+                  r"No\. \d+,.*|New York|Copyright \d+.*)\s*$", "", text)
+    return text
+
+
 def strip_dickinson_poems(text: str) -> str:
     """Keep only Dickinson's poems from the 3-series Gutenberg edition: drop the
     title page + each series' editorial PREFACE, and bracketed publication notes."""
@@ -128,7 +144,7 @@ def normalize(text: str) -> str:
     return text.strip()
 
 
-def clean_file(path: Path) -> str:
+def clean_file(path: Path, author: str = "") -> str:
     raw = path.read_text(encoding="utf-8", errors="replace")
     if path.suffix == ".muse":
         raw = strip_muse(raw, path.name)
@@ -136,6 +152,8 @@ def clean_file(path: Path) -> str:
         raw = strip_gutenberg(raw)
         if path.name == "gutenberg_poems_complete.txt":
             raw = strip_dickinson_poems(raw)
+        elif author == "hugo":
+            raw = strip_hugo(raw)
     return normalize(raw)
 
 
@@ -153,7 +171,7 @@ def process_author(author: str) -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
     parts, rows = [], []
     for f in files:
-        cleaned = clean_file(f)
+        cleaned = clean_file(f, author)
         parts.append(cleaned)
         rows.append((f.name, len(f.read_text(encoding="utf-8", errors="replace").split()),
                      len(cleaned.split())))
