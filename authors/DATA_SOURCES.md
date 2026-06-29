@@ -40,6 +40,21 @@ bots; the originals are French). `strip_hugo` drops the title page, table of
 contents, VOLUME/BOOK/CHAPTER headings, and the list of illustrations, leaving
 ~741k words of prose.
 
+## Dostoevsky (d. 1881 — public domain)
+| File | Source | Words |
+|------|--------|-------|
+| `dostoevsky/data/raw/crime_and_punishment.txt` | Gutenberg #2554 (Garnett trans.) | ~204k |
+| `dostoevsky/data/raw/brothers_karamazov.txt` | Gutenberg #28054 (Garnett trans.) | ~351k |
+
+## Tolstoy (d. 1910 — public domain)
+| File | Source | Words |
+|------|--------|-------|
+| `tolstoy/data/raw/anna_karenina.txt` | Gutenberg #1399 (Garnett trans.) | ~350k |
+| `tolstoy/data/raw/war_and_peace.txt` | Gutenberg #2600 | ~566k |
+
+Public-domain English translations. `strip_gutenberg_novel` skips the translator's
+preface / table of contents to the first chapter and drops structural headings.
+
 ## De-duplication notes
 - Dropped `dickinson/poems.txt` (subset of the Gutenberg complete edition).
 - Dropped `dickinson/archive_letters_1894.txt` (OCR-noisy subset of the Todd letters).

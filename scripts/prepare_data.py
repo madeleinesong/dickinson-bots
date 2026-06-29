@@ -40,27 +40,46 @@ SKIP_FILES = {
     "dickinson": {"letters_todd_1894.txt"},
 }
 
+# Authors whose raw files are Gutenberg prose novels (cleaned by strip_gutenberg_novel).
+NOVEL_AUTHORS = {"hugo", "dostoevsky", "tolstoy"}
 
-def strip_hugo(text: str) -> str:
-    """Drop the table of contents, per-section VOLUME/BOOK/CHAPTER headings, and
-    illustration markers from the Gutenberg Hugo editions — leaving the prose.
-    (The heading regex clears both the TOC entries and the inline headings.)"""
+
+# anchor: a structural heading at column 0 (tables of contents indent their entries,
+# so requiring no leading whitespace skips the TOC)
+_HEADING = re.compile(r"(?i)^(VOLUME|BOOK|CHAPTER|PART|PROLOGUE|EPILOGUE)\b")
+# title-case structural headings like "Chapter I. ..." / "Book One: ..." — required
+# numeral after the word so prose ("Part of him...") is never matched
+_NUM_HEADING = re.compile(
+    r"(?im)^\s*(VOLUME|BOOK|CHAPTER|PART|PROLOGUE|EPILOGUE)\s+"
+    r"([IVXLC]+|\d+|ONE|TWO|THREE|FOUR|FIVE|SIX|SEVEN|EIGHT|NINE|TEN|ELEVEN|TWELVE|"
+    r"FIRST|SECOND|THIRD|FOURTH|FIFTH)\b.*$")
+
+
+def strip_gutenberg_novel(text: str) -> str:
+    """Clean a Gutenberg prose novel: skip front matter / translator's intro to the
+    first real chapter, then drop structural headings and illustration markers.
+
+    The novel's start is the first VOLUME/BOOK/CHAPTER/PART heading that is followed
+    closely by real prose — this skips both the table of contents (headings followed
+    by more headings) and any translator's preface (prose with no heading)."""
     text = re.sub(r"\[[^\]]*\]", "", text)                          # [Illustration: ...]
-    # cut all front matter (title page, contents, list of illustrations) by jumping
-    # to the first substantial paragraph of prose
-    paras = re.split(r"\n\s*\n", text)
-    for i, p in enumerate(paras):
-        if len(p.split()) >= 30:
-            text = "\n\n".join(paras[i:])
-            break
-    text = re.sub(r"(?m)^\s*(VOLUME|BOOK|CHAPTER|PART)\b.*$", "", text)
-    text = re.sub(r"(?m)^\s*(Contents|LES MISÉRABLES|NOTRE-DAME DE PARIS|PREFACE)\s*$",
-                  "", text)
-    # drop standalone ALL-CAPS lines: chapter titles + list-of-illustrations captions
-    text = re.sub(r"(?m)^\s*[A-ZÀ-Þ][A-ZÀ-Þ0-9'’.,;:!?()\- ]{3,}\s*$", "", text)
-    # drop the title-page metadata lines
-    text = re.sub(r"(?m)^\s*(By Victor Hugo|Translated by .*|Thomas Y\. Crowell.*|"
-                  r"No\. \d+,.*|New York|Copyright \d+.*)\s*$", "", text)
+    # novel start = first structural heading followed (within ~30 lines) by a real
+    # PROSE PARAGRAPH (>=50 words in one block). A table of contents is many short
+    # lines (no single long paragraph), so TOC headings don't trigger it; a
+    # translator's preface has no structural heading, so it's skipped too.
+    lines = text.split("\n")
+    for i, ln in enumerate(lines):
+        if _HEADING.match(ln):
+            chunk = "\n".join(lines[i + 1:i + 30])
+            if any(len(p.split()) >= 50 for p in re.split(r"\n\s*\n", chunk)):
+                lines = lines[i:]
+                break
+    text = "\n".join(lines)
+    # strip structural headings (UPPERCASE incl. em-dashes) + title-case numbered ones
+    text = re.sub(r"(?m)^\s*(VOLUME|BOOK|CHAPTER|PART|PROLOGUE|EPILOGUE)\b.*$", "", text)
+    text = _NUM_HEADING.sub("", text)
+    # standalone ALL-CAPS titles / list-of-illustrations captions
+    text = re.sub(r"(?m)^\s*[A-ZÀ-Þ][A-ZÀ-Þ0-9'’.,;:!?()\-—– ]{3,}\s*$", "", text)
     return text
 
 
@@ -159,8 +178,8 @@ def clean_file(path: Path, author: str = "") -> str:
         raw = strip_gutenberg(raw)
         if path.name == "gutenberg_poems_complete.txt":
             raw = strip_dickinson_poems(raw)
-        elif author == "hugo":
-            raw = strip_hugo(raw)
+        elif author in NOVEL_AUTHORS:
+            raw = strip_gutenberg_novel(raw)
     return normalize(raw)
 
 
