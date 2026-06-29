@@ -41,8 +41,10 @@ def main():
     adapter = ROOT / "authors" / args.author / "chat_model"
     base = (adapter / "BASE_MODEL.txt").read_text().strip()
 
+    # fp32 on MPS: bf16 + repetition_penalty can overflow to inf/nan during sampling
+    dtype = torch.float32 if device == "mps" else torch.bfloat16
     tok = AutoTokenizer.from_pretrained(str(adapter))
-    model = AutoModelForCausalLM.from_pretrained(base, dtype=torch.bfloat16)
+    model = AutoModelForCausalLM.from_pretrained(base, dtype=dtype)
     if not args.base:
         model = PeftModel.from_pretrained(model, str(adapter))
     model = model.to(device).eval()
