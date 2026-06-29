@@ -24,3 +24,6 @@ cached_lm_*
 
 # Saved chat transcripts (per-session runtime logs)
 authors/*/chats/
+
+# Generated comparison reports
+authors/comparison_*.md
